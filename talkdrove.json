@@ -9,18 +9,18 @@
   
 "env": {
       "SESSION_ID": {
-        "description": "KANGO~J3VRlbqJ#fKgwMdj3P1owT4hLCbQwaURKOPVtgazkb8Enmon0RXE",
+        "description": "KANGO~EulkDbDb#6GNymr95hEbJkpXS2cLoPPUCC5cRAEPtzs0c4QQ0grQ",
         "value":"",
         "required": true
         
         },
     "OWNER_NUMBER": {
-      "description": "256786304880",
+      "description": "256746527403",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "CONSULTANT256",
+      "description": "EANSENSOR",
       "value": "",
       "required": true
     },
